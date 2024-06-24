@@ -1,2 +1,2 @@
 # JavaProjects
-Past projects I have worked on
+Some of the projects I have worked on
